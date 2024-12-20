@@ -15,10 +15,19 @@
 
 ## 🖥️ Capturas de Pantalla
 **Modo oscuro** 🌙:
-![Modo oscuro](Images/QR_Generator_darkTheme.png)
+<p align="center">
+  <img src="Images/QR_Generator_darkTheme.png" alt="Modo oscuro" width="300">
+</p>
 
 **Modo claro** ☀️:
-![Modo claro](Images/QR_Generator_lightTheme.png)
+<p align="center">
+  <img src="Images/QR_Generator_lightTheme.png" alt="Modo claro" width="300">
+</p>
+
+**Ejemplo de color QR** ☀️:
+<p align="center">
+  <img src="Images/qr.png" alt="QR Color" width="200">
+</p>
 
 ## 🛠️ Requisitos
 - Python 3.6 o superior 🐍
@@ -27,3 +36,4 @@
   - [`ttkbootstrap`](https://ttkbootstrap.readthedocs.io/) 🎨
   - [`Pillow`](https://python-pillow.org/) 🖼️
   - [`qrcode`](https://github.com/lincolnloop/python-qrcode) 📷
+
